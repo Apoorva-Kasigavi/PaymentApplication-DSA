@@ -1,0 +1,1334 @@
+_________________________START OF ITERATION________________________
+
+Sat Jan 08 17:03:27 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sat Jan 08 17:03:27 2022
+ file_empty_check : FILE_EMPTY_ERROR --> account_file.txt is empty
+
+_________________________START OF ITERATION________________________
+
+Sat Jan 08 18:06:57 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sat Jan 08 18:06:57 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sat Jan 08 18:06:57 2022
+ load : SUCCESS --> user count read successfully
+
+Sat Jan 08 18:06:57 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sat Jan 08 18:06:57 2022
+ load : SUCCESS --> Account Load Successful
+
+Sat Jan 08 18:07:07 2022
+ add_account : FILE_DELETE_ERROR --> The OTP file was not deleted. Requires manual delete.
+
+Sat Jan 08 18:07:16 2022
+ add_account : SUCCESS --> The account details were successfully added
+
+Sat Jan 08 18:08:09 2022
+ dump : SUCCESS --> User count dumped successfully
+
+Sat Jan 08 18:08:09 2022
+ account_memory_deallocation : SUCCESS --> Memory deallocation Successful
+
+Sat Jan 08 18:08:09 2022
+ dump : SUCCESS --> Account table dumped successfully
+
+_________________________END OF ITERATION________________________
+
+_________________________START OF ITERATION________________________
+
+Sat Jan 08 18:11:12 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sat Jan 08 18:11:12 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sat Jan 08 18:11:12 2022
+ load : SUCCESS --> user count read successfully
+
+Sat Jan 08 18:11:12 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sat Jan 08 18:11:12 2022
+ load : SUCCESS --> Account Load Successful
+
+Sat Jan 08 18:11:20 2022
+ add_account : FILE_DELETE_ERROR --> The OTP file was not deleted. Requires manual delete.
+
+Sat Jan 08 18:11:25 2022
+ add_account : SUCCESS --> The account details were successfully added
+
+Sat Jan 08 18:11:55 2022
+ dump : SUCCESS --> User count dumped successfully
+
+Sat Jan 08 18:11:55 2022
+ account_memory_deallocation : SUCCESS --> Memory deallocation Successful
+
+Sat Jan 08 18:11:55 2022
+ dump : SUCCESS --> Account table dumped successfully
+
+_________________________END OF ITERATION________________________
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 09 00:30:29 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 09 00:30:29 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 09 00:30:29 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 09 00:30:29 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 09 00:30:29 2022
+ load : SUCCESS --> Account Load Successful
+
+Sun Jan 09 00:30:58 2022
+ dump : SUCCESS --> User count dumped successfully
+
+Sun Jan 09 00:30:58 2022
+ account_memory_deallocation : SUCCESS --> Memory deallocation Successful
+
+Sun Jan 09 00:30:58 2022
+ dump : SUCCESS --> Account table dumped successfully
+
+_________________________END OF ITERATION________________________
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 09 00:43:59 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 09 00:43:59 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 09 00:43:59 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 09 00:43:59 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 09 00:43:59 2022
+ load : SUCCESS --> Account Load Successful
+
+Sun Jan 09 00:52:13 2022
+ dump : FILE_OPEN_ERROR --> Unable to open the user_count file
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 09 00:57:45 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 09 00:57:45 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 09 00:57:45 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 09 00:57:45 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 09 00:57:45 2022
+ load : SUCCESS --> Account Load Successful
+
+Sun Jan 09 00:58:02 2022
+ add_account : FILE_DELETE_ERROR --> The OTP file was not deleted. Requires manual delete.
+
+Sun Jan 09 00:58:30 2022
+ add_account : SUCCESS --> The account details were successfully added
+
+Sun Jan 09 00:59:20 2022
+ dump : SUCCESS --> User count dumped successfully
+
+Sun Jan 09 00:59:20 2022
+ account_memory_deallocation : SUCCESS --> Memory deallocation Successful
+
+Sun Jan 09 00:59:20 2022
+ dump : SUCCESS --> Account table dumped successfully
+
+_________________________END OF ITERATION________________________
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 09 00:59:25 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 09 00:59:25 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 09 00:59:25 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 09 00:59:25 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 09 00:59:25 2022
+ load : SUCCESS --> Account Load Successful
+
+Sun Jan 09 01:00:15 2022
+ add_account : FILE_DELETE_ERROR --> The OTP file was not deleted. Requires manual delete.
+
+Sun Jan 09 01:00:30 2022
+ add_account : SUCCESS --> The account details were successfully added
+
+Sun Jan 09 01:01:33 2022
+ dump : SUCCESS --> User count dumped successfully
+
+Sun Jan 09 01:01:33 2022
+ account_memory_deallocation : SUCCESS --> Memory deallocation Successful
+
+Sun Jan 09 01:01:33 2022
+ dump : SUCCESS --> Account table dumped successfully
+
+_________________________END OF ITERATION________________________
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 09 01:03:57 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 09 01:03:57 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 09 01:03:57 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 09 01:03:57 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 09 01:03:57 2022
+ load : SUCCESS --> Account Load Successful
+
+Sun Jan 09 01:04:17 2022
+ add_account : FILE_DELETE_ERROR --> The OTP file was not deleted. Requires manual delete.
+
+Sun Jan 09 01:04:33 2022
+ add_account : SUCCESS --> The account details were successfully added
+
+Sun Jan 09 01:09:10 2022
+ dump : SUCCESS --> User count dumped successfully
+
+Sun Jan 09 01:09:10 2022
+ account_memory_deallocation : SUCCESS --> Memory deallocation Successful
+
+Sun Jan 09 01:09:10 2022
+ dump : SUCCESS --> Account table dumped successfully
+
+_________________________END OF ITERATION________________________
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 09 01:09:51 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 09 01:09:51 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 09 01:09:51 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 09 01:09:51 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 09 01:09:51 2022
+ load : SUCCESS --> Account Load Successful
+
+Sun Jan 09 01:09:52 2022
+ dump : SUCCESS --> User count dumped successfully
+
+Sun Jan 09 01:09:52 2022
+ account_memory_deallocation : SUCCESS --> Memory deallocation Successful
+
+Sun Jan 09 01:09:52 2022
+ dump : SUCCESS --> Account table dumped successfully
+
+_________________________END OF ITERATION________________________
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 09 13:08:01 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 09 13:08:01 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 09 13:08:01 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 09 13:08:01 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 09 13:08:01 2022
+ load : SUCCESS --> Account Load Successful
+
+Sun Jan 09 13:08:13 2022
+ add_account : FILE_DELETE_ERROR --> The OTP file was not deleted. Requires manual delete.
+
+Sun Jan 09 13:08:22 2022
+ add_account : SUCCESS --> The account details were successfully added
+
+Sun Jan 09 13:10:44 2022
+ dump : FILE_OPEN_ERROR --> Unable to open the user_count file
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 09 14:07:24 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 09 14:07:24 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 09 14:07:24 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 09 14:07:24 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 09 14:07:24 2022
+ load : SUCCESS --> Account Load Successful
+
+Sun Jan 09 14:07:28 2022
+ dump : SUCCESS --> User count dumped successfully
+
+Sun Jan 09 14:07:28 2022
+ account_memory_deallocation : SUCCESS --> Memory deallocation Successful
+
+Sun Jan 09 14:07:28 2022
+ dump : SUCCESS --> Account table dumped successfully
+
+_________________________END OF ITERATION________________________
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 09 19:36:03 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 09 19:36:03 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 09 19:36:03 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 09 19:36:03 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 09 19:36:03 2022
+ load : SUCCESS --> Account Load Successful
+
+Sun Jan 09 19:36:58 2022
+ add_account : SUCCESS --> The OTP file was successfully deleted
+
+Sun Jan 09 19:41:16 2022
+ dump : SUCCESS --> User count dumped successfully
+
+Sun Jan 09 19:41:16 2022
+ account_memory_deallocation : SUCCESS --> Memory deallocation Successful
+
+Sun Jan 09 19:41:16 2022
+ dump : SUCCESS --> Account table dumped successfully
+
+_________________________END OF ITERATION________________________
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 09 19:41:20 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 09 19:41:20 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 09 19:41:20 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 09 19:41:20 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 09 19:41:20 2022
+ load : SUCCESS --> Account Load Successful
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 09 19:42:16 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 09 19:42:16 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 09 19:42:16 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 09 19:42:16 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 09 19:42:16 2022
+ load : SUCCESS --> Account Load Successful
+
+Sun Jan 09 19:42:48 2022
+ add_account : SUCCESS --> The OTP file was successfully deleted
+
+Sun Jan 09 19:43:59 2022
+ dump : SUCCESS --> User count dumped successfully
+
+Sun Jan 09 19:43:59 2022
+ account_memory_deallocation : SUCCESS --> Memory deallocation Successful
+
+Sun Jan 09 19:43:59 2022
+ dump : SUCCESS --> Account table dumped successfully
+
+_________________________END OF ITERATION________________________
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 09 19:44:11 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 09 19:44:11 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 09 19:44:11 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 09 19:44:11 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 09 19:44:11 2022
+ load : SUCCESS --> Account Load Successful
+
+Sun Jan 09 19:44:25 2022
+ add_account : SUCCESS --> The OTP file was successfully deleted
+
+Sun Jan 09 19:47:08 2022
+ dump : FILE_OPEN_ERROR --> Unable to open the user_count file
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 09 19:47:29 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 09 19:47:29 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 09 19:47:29 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 09 19:47:29 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 09 19:47:29 2022
+ load : SUCCESS --> Account Load Successful
+
+Sun Jan 09 19:47:42 2022
+ add_account : SUCCESS --> The OTP file was successfully deleted
+
+Sun Jan 09 19:55:27 2022
+ dump : SUCCESS --> User count dumped successfully
+
+Sun Jan 09 19:55:27 2022
+ account_memory_deallocation : SUCCESS --> Memory deallocation Successful
+
+Sun Jan 09 19:55:27 2022
+ dump : SUCCESS --> Account table dumped successfully
+
+_________________________END OF ITERATION________________________
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 09 20:07:05 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 09 20:07:05 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 09 20:07:05 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 09 20:07:05 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 09 20:07:05 2022
+ load : SUCCESS --> Account Load Successful
+
+Sun Jan 09 20:07:50 2022
+ add_account : SUCCESS --> The OTP file was successfully deleted
+
+Sun Jan 09 20:12:14 2022
+ dump : SUCCESS --> User count dumped successfully
+
+Sun Jan 09 20:12:14 2022
+ account_memory_deallocation : SUCCESS --> Memory deallocation Successful
+
+Sun Jan 09 20:12:14 2022
+ dump : SUCCESS --> Account table dumped successfully
+
+_________________________END OF ITERATION________________________
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 09 22:42:07 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 09 22:42:07 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 09 22:42:07 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 09 22:42:07 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 09 22:42:07 2022
+ load : SUCCESS --> Account Load Successful
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 09 22:43:15 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 09 22:43:15 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 09 22:43:15 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 09 22:43:15 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 09 22:43:15 2022
+ load : SUCCESS --> Account Load Successful
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 09 22:44:46 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 09 22:44:46 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 09 22:44:46 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 09 22:44:46 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 09 22:44:46 2022
+ load : SUCCESS --> Account Load Successful
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 09 22:45:23 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 09 22:45:23 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 09 22:45:23 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 09 22:45:23 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 09 22:45:23 2022
+ load : SUCCESS --> Account Load Successful
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 09 23:25:22 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 09 23:25:22 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 09 23:25:22 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 09 23:25:22 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 09 23:25:22 2022
+ load : SUCCESS --> Account Load Successful
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 09 23:26:19 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 09 23:26:19 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 09 23:26:19 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 09 23:26:19 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 09 23:26:19 2022
+ load : SUCCESS --> Account Load Successful
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 09 23:26:54 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 09 23:26:54 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 09 23:26:54 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 09 23:26:54 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 09 23:26:54 2022
+ load : SUCCESS --> Account Load Successful
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 09 23:28:12 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 09 23:28:12 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 09 23:28:12 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 09 23:28:12 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 09 23:28:12 2022
+ load : SUCCESS --> Account Load Successful
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 09 23:36:26 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 09 23:36:26 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 09 23:36:26 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 09 23:36:26 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 09 23:36:26 2022
+ load : SUCCESS --> Account Load Successful
+
+Sun Jan 09 23:36:46 2022
+ add_account : SUCCESS --> The OTP file was successfully deleted
+
+Sun Jan 09 23:36:50 2022
+ add_account : SUCCESS --> The account details were successfully added
+
+Sun Jan 09 23:37:45 2022
+ Transaction : FAILURE --> Invalid Mobile Number
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 09 23:46:35 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 09 23:46:35 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 09 23:46:35 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 09 23:46:35 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 09 23:46:35 2022
+ load : SUCCESS --> Account Load Successful
+
+Sun Jan 09 23:51:25 2022
+ add_account : SUCCESS --> The OTP file was successfully deleted
+
+Sun Jan 09 23:51:28 2022
+ add_account : SUCCESS --> The account details were successfully added
+
+Sun Jan 09 23:51:46 2022
+ Transaction : FAILURE --> Invalid Mobile Number
+
+Sun Jan 09 23:53:00 2022
+ dump : SUCCESS --> User count dumped successfully
+
+Sun Jan 09 23:53:00 2022
+ account_memory_deallocation : SUCCESS --> Memory deallocation Successful
+
+Sun Jan 09 23:53:00 2022
+ dump : SUCCESS --> Account table dumped successfully
+
+_________________________END OF ITERATION________________________
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 09 23:54:40 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 09 23:54:40 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 09 23:54:40 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 09 23:54:40 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 09 23:54:40 2022
+ load : SUCCESS --> Account Load Successful
+
+_________________________START OF ITERATION________________________
+
+Mon Jan 10 00:03:00 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Mon Jan 10 00:03:00 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Mon Jan 10 00:03:00 2022
+ load : SUCCESS --> user count read successfully
+
+Mon Jan 10 00:03:00 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Mon Jan 10 00:03:00 2022
+ load : SUCCESS --> Account Load Successful
+
+Mon Jan 10 00:03:21 2022
+ add_account : SUCCESS --> The OTP file was successfully deleted
+
+Mon Jan 10 00:03:24 2022
+ add_account : SUCCESS --> The account details were successfully added
+
+Mon Jan 10 00:09:02 2022
+ add_account : FAILURE --> The provided mobile number was not valid
+
+_________________________START OF ITERATION________________________
+
+Mon Jan 10 00:10:51 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Mon Jan 10 00:10:51 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Mon Jan 10 00:10:51 2022
+ load : SUCCESS --> user count read successfully
+
+Mon Jan 10 00:10:51 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Mon Jan 10 00:10:51 2022
+ load : SUCCESS --> Account Load Successful
+
+_________________________START OF ITERATION________________________
+
+Mon Jan 10 16:12:45 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Mon Jan 10 16:12:45 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Mon Jan 10 16:12:45 2022
+ load : SUCCESS --> user count read successfully
+
+Mon Jan 10 16:12:45 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Mon Jan 10 16:12:45 2022
+ load : SUCCESS --> Account Load Successful
+
+_________________________START OF ITERATION________________________
+
+Mon Jan 10 20:05:32 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Mon Jan 10 20:05:32 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Mon Jan 10 20:05:32 2022
+ load : SUCCESS --> user count read successfully
+
+Mon Jan 10 20:05:32 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Mon Jan 10 20:05:32 2022
+ load : SUCCESS --> Account Load Successful
+
+Mon Jan 10 20:06:17 2022
+ add_account : SUCCESS --> The OTP file was successfully deleted
+
+Mon Jan 10 20:06:21 2022
+ add_account : SUCCESS --> The account details were successfully added
+
+Mon Jan 10 20:08:55 2022
+ add_account : FAILURE --> The provided mobile number was not valid
+
+Mon Jan 10 20:09:56 2022
+ add_account : FILE_DELETE_ERROR --> The OTP file was not deleted. Requires manual delete.
+
+Mon Jan 10 20:10:00 2022
+ add_account : SUCCESS --> The account details were successfully added
+
+_________________________START OF ITERATION________________________
+
+Mon Jan 10 20:30:26 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Mon Jan 10 20:30:26 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Mon Jan 10 20:30:26 2022
+ load : SUCCESS --> user count read successfully
+
+Mon Jan 10 20:30:26 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Mon Jan 10 20:30:26 2022
+ load : SUCCESS --> Account Load Successful
+
+Mon Jan 10 20:31:01 2022
+ add_account : SUCCESS --> The OTP file was successfully deleted
+
+Mon Jan 10 20:31:03 2022
+ add_account : SUCCESS --> The account details were successfully added
+
+Mon Jan 10 20:37:33 2022
+ dump : FILE_OPEN_ERROR --> Unable to open the user_count file
+
+_________________________START OF ITERATION________________________
+
+Mon Jan 10 20:38:40 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Mon Jan 10 20:38:40 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Mon Jan 10 20:38:40 2022
+ load : SUCCESS --> user count read successfully
+
+Mon Jan 10 20:38:40 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Mon Jan 10 20:38:40 2022
+ load : SUCCESS --> Account Load Successful
+
+Mon Jan 10 20:39:28 2022
+ add_account : SUCCESS --> The OTP file was successfully deleted
+
+Mon Jan 10 20:39:31 2022
+ add_account : SUCCESS --> The account details were successfully added
+
+Mon Jan 10 20:41:23 2022
+ dump : SUCCESS --> User count dumped successfully
+
+Mon Jan 10 20:41:23 2022
+ account_memory_deallocation : SUCCESS --> Memory deallocation Successful
+
+Mon Jan 10 20:41:23 2022
+ dump : SUCCESS --> Account table dumped successfully
+
+_________________________END OF ITERATION________________________
+
+_________________________START OF ITERATION________________________
+
+Thu Jan 13 16:35:41 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Thu Jan 13 16:35:41 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Thu Jan 13 16:35:41 2022
+ load : SUCCESS --> user count read successfully
+
+Thu Jan 13 16:35:41 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Thu Jan 13 16:35:41 2022
+ load : SUCCESS --> Account Load Successful
+
+Thu Jan 13 16:35:48 2022
+ displayProfilesbyName : FAILURE --> Account not found which includes the required pattern
+
+Thu Jan 13 16:36:02 2022
+ displayProfilesbyMobNumber : FAILURE --> Account not found which includes the required pattern
+
+Thu Jan 13 16:36:06 2022
+ dump : SUCCESS --> User count dumped successfully
+
+Thu Jan 13 16:36:06 2022
+ account_memory_deallocation : SUCCESS --> Memory deallocation Successful
+
+Thu Jan 13 16:36:06 2022
+ dump : SUCCESS --> Account table dumped successfully
+
+_________________________END OF ITERATION________________________
+
+_________________________START OF ITERATION________________________
+
+Fri Jan 14 01:51:06 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Fri Jan 14 01:51:06 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Fri Jan 14 01:51:06 2022
+ load : SUCCESS --> user count read successfully
+
+Fri Jan 14 01:51:06 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Fri Jan 14 01:51:06 2022
+ load : SUCCESS --> Account Load Successful
+
+_________________________START OF ITERATION________________________
+
+Sat Jan 15 00:22:08 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sat Jan 15 00:22:08 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sat Jan 15 00:22:08 2022
+ load : SUCCESS --> user count read successfully
+
+Sat Jan 15 00:22:08 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sat Jan 15 00:22:08 2022
+ load : SUCCESS --> Account Load Successful
+
+Sat Jan 15 00:24:43 2022
+ dump : FILE_OPEN_ERROR --> Unable to open the user_count file
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 16 00:10:07 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 16 00:10:07 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 16 00:10:07 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 16 00:10:07 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 16 00:10:07 2022
+ load : SUCCESS --> Account Load Successful
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 16 00:18:44 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 16 00:18:44 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 16 00:18:44 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 16 00:18:44 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 16 00:18:44 2022
+ load : SUCCESS --> Account Load Successful
+
+Sun Jan 16 00:19:04 2022
+ add_account : SUCCESS --> The OTP file was successfully deleted
+
+Sun Jan 16 00:19:06 2022
+ add_account : SUCCESS --> The account details were successfully added
+
+Sun Jan 16 00:19:53 2022
+ dump : SUCCESS --> User count dumped successfully
+
+Sun Jan 16 00:19:53 2022
+ account_memory_deallocation : SUCCESS --> Memory deallocation Successful
+
+Sun Jan 16 00:19:53 2022
+ dump : SUCCESS --> Account table dumped successfully
+
+_________________________END OF ITERATION________________________
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 16 15:01:04 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 16 15:01:04 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 16 15:01:04 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 16 15:01:04 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 16 15:01:04 2022
+ load : SUCCESS --> Account Load Successful
+
+Sun Jan 16 15:03:05 2022
+ fetchAccountIndex : FAILURE --> Required Account Not Found
+
+Sun Jan 16 15:03:15 2022
+ add_account : SUCCESS --> The OTP file was successfully deleted
+
+Sun Jan 16 15:04:02 2022
+ displayProfilesbyName : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 15:04:02 2022
+ displayProfilesbyName : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 15:04:02 2022
+ displayProfilesbyName : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 15:04:02 2022
+ displayProfilesbyName : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 15:04:29 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 15:04:29 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 15:04:29 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 15:04:29 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 15:04:29 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 15:05:51 2022
+ displayProfilesbyMobNumber : FAILURE --> Account not found which includes the required pattern
+
+Sun Jan 16 15:06:02 2022
+ displayProfilesbyName : FAILURE --> Account not found which includes the required pattern
+
+Sun Jan 16 15:06:09 2022
+ initLocations : SUCCESS --> Locations Mapped
+
+
+Sun Jan 16 15:07:11 2022
+ dijkstras : SUCCESS --> Minimum Cost to reach each location found
+
+
+Sun Jan 16 15:07:11 2022
+ displayCost : SUCCESS --> Minimum Cost to reach each location displayed
+
+
+Sun Jan 16 15:07:11 2022
+ displayDistances : SUCCESS --> Minimum cost to reach each location displayed
+
+
+Sun Jan 16 15:08:36 2022
+ sortIncreasing : SUCCESS --> Contents of accounts are sorted in non-decreasing order based on balance amount
+
+
+Sun Jan 16 15:08:56 2022
+ sortDecreasing : SUCCESS --> Contents of accounts are sorted in non-increasing order based on balance amount
+
+
+Sun Jan 16 15:09:16 2022
+ sortNames : SUCCESS --> Contents of accounts are sorted in alphabetical order based on the names
+
+
+Sun Jan 16 15:11:39 2022
+ fetchAccountIndex : SUCCESS --> Required Account Found
+
+Sun Jan 16 15:11:39 2022
+ fetchAccountIndex : FAILURE --> Required Account Not Found
+
+Sun Jan 16 15:12:05 2022
+ fetchAccountIndex : FAILURE --> Required Account Not Found
+
+Sun Jan 16 15:12:14 2022
+ add_account : SUCCESS --> The OTP file was successfully deleted
+
+Sun Jan 16 15:12:17 2022
+ add_account : SUCCESS --> The account details were successfully added
+
+Sun Jan 16 15:13:36 2022
+ fetchAccountIndex : FAILURE --> Required Account Not Found
+
+Sun Jan 16 15:13:45 2022
+ add_account : SUCCESS --> The OTP file was successfully deleted
+
+Sun Jan 16 15:13:53 2022
+ add_account : SUCCESS --> The account details were successfully added
+
+Sun Jan 16 15:14:04 2022
+ sortNames : SUCCESS --> Contents of accounts are sorted in alphabetical order based on the names
+
+
+Sun Jan 16 15:14:49 2022
+ displayBalance : SUCCESS --> Balance amount of the user displayed
+
+Sun Jan 16 15:22:32 2022
+ dump : SUCCESS --> User count dumped successfully
+
+Sun Jan 16 15:22:32 2022
+ account_memory_deallocation : SUCCESS --> Memory deallocation Successful
+
+Sun Jan 16 15:22:32 2022
+ dump : SUCCESS --> Account table dumped successfully
+
+_________________________END OF ITERATION________________________
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 16 15:33:21 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 16 15:33:21 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 16 15:33:21 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 16 15:33:21 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 16 15:33:21 2022
+ load : SUCCESS --> Account Load Successful
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 16 16:19:18 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 16 16:19:18 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 16 16:19:18 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 16 16:19:18 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 16 16:19:18 2022
+ load : SUCCESS --> Account Load Successful
+
+Sun Jan 16 16:20:37 2022
+ fetchAccountIndex : FAILURE --> Required Account Not Found
+
+Sun Jan 16 16:20:47 2022
+ add_account : SUCCESS --> The OTP file was successfully deleted
+
+Sun Jan 16 16:20:49 2022
+ add_account : SUCCESS --> The account details were successfully added
+
+Sun Jan 16 16:21:32 2022
+ fetchAccountIndex : SUCCESS --> Required Account Found
+
+Sun Jan 16 16:21:32 2022
+ fetchAccountIndex : FAILURE --> Required Account Not Found
+
+Sun Jan 16 16:21:39 2022
+ pay : SUCCESS --> Transaction Successfully Complete
+
+Sun Jan 16 16:22:29 2022
+ fetchAccountIndex : SUCCESS --> Required Account Found
+
+Sun Jan 16 16:22:29 2022
+ fetchAccountIndex : FAILURE --> Required Account Not Found
+
+Sun Jan 16 16:22:38 2022
+ Request : FAILURE --> Transaction denied
+
+Sun Jan 16 16:23:25 2022
+ fetchAccountIndex : SUCCESS --> Required Account Found
+
+Sun Jan 16 16:23:25 2022
+ fetchAccountIndex : FAILURE --> Required Account Not Found
+
+Sun Jan 16 16:23:48 2022
+ Request : SUCCESS --> Transaction Successfully Complete
+
+Sun Jan 16 16:24:04 2022
+ displayProfilesbyName : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 16:24:04 2022
+ displayProfilesbyName : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 16:24:04 2022
+ displayProfilesbyName : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 16:24:04 2022
+ displayProfilesbyName : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 16:24:04 2022
+ displayProfilesbyName : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 16:24:04 2022
+ displayProfilesbyName : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 16:24:04 2022
+ displayProfilesbyName : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 16:24:04 2022
+ displayProfilesbyName : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 16:24:04 2022
+ displayProfilesbyName : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 16:24:04 2022
+ displayProfilesbyName : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 16:24:16 2022
+ sortIncreasing : SUCCESS --> Contents of accounts are sorted in non-decreasing order based on balance amount
+
+
+Sun Jan 16 16:24:23 2022
+ sortDecreasing : SUCCESS --> Contents of accounts are sorted in non-increasing order based on balance amount
+
+
+Sun Jan 16 16:24:28 2022
+ sortNames : SUCCESS --> Contents of accounts are sorted in alphabetical order based on the names
+
+
+Sun Jan 16 16:25:09 2022
+ displayBalance : SUCCESS --> Balance amount of the user displayed
+
+Sun Jan 16 16:25:29 2022
+ dump : SUCCESS --> User count dumped successfully
+
+Sun Jan 16 16:25:29 2022
+ account_memory_deallocation : SUCCESS --> Memory deallocation Successful
+
+Sun Jan 16 16:25:29 2022
+ dump : SUCCESS --> Account table dumped successfully
+
+_________________________END OF ITERATION________________________
+
+_________________________START OF ITERATION________________________
+
+Sun Jan 16 23:07:16 2022
+ file_empty_check : SUCCESS --> user_count.txt has content
+
+Sun Jan 16 23:07:16 2022
+ file_empty_check : SUCCESS --> account_file.txt has content
+
+Sun Jan 16 23:07:16 2022
+ load : SUCCESS --> user count read successfully
+
+Sun Jan 16 23:07:16 2022
+ account_memory_allocation : SUCCESS --> Memory allocation Successful
+
+Sun Jan 16 23:07:16 2022
+ load : SUCCESS --> Account Load Successful
+
+Sun Jan 16 23:07:38 2022
+ fetchAccountIndex : FAILURE --> Required Account Not Found
+
+Sun Jan 16 23:07:46 2022
+ add_account : SUCCESS --> The OTP file was successfully deleted
+
+Sun Jan 16 23:07:48 2022
+ add_account : SUCCESS --> The account details were successfully added
+
+Sun Jan 16 23:08:28 2022
+ fetchAccountIndex : SUCCESS --> Required Account Found
+
+Sun Jan 16 23:08:28 2022
+ fetchAccountIndex : FAILURE --> Required Account Not Found
+
+Sun Jan 16 23:08:30 2022
+ pay : SUCCESS --> Transaction Successfully Complete
+
+Sun Jan 16 23:09:11 2022
+ fetchAccountIndex : SUCCESS --> Required Account Found
+
+Sun Jan 16 23:09:11 2022
+ fetchAccountIndex : FAILURE --> Required Account Not Found
+
+Sun Jan 16 23:09:26 2022
+ Request : SUCCESS --> Transaction Successfully Complete
+
+Sun Jan 16 23:09:43 2022
+ displayProfilesbyName : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 23:09:51 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 23:09:51 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 23:09:51 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 23:09:51 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 23:09:51 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 23:09:51 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 23:09:51 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 23:09:51 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 23:09:51 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 23:09:51 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 23:09:51 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 23:09:51 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 23:09:51 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 23:09:51 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 23:09:51 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 23:09:51 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 23:09:51 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 23:09:51 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 23:09:51 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 23:09:51 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 23:09:51 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 23:09:51 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 23:09:51 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 23:09:51 2022
+ displayProfilesbyMobNumber : SUCCESS --> Account found including the required pattern
+
+Sun Jan 16 23:11:19 20
