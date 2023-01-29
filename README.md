@@ -1,5 +1,5 @@
 # PaymentApplication-OOPs
-CLI based Payment Application built using OOPs Concepts
+CLI based Payment Application built using DSA
 1) account_file.txt  : Has details of Accounts Registered with Google Pay.
 2) bank_file.txt  : Has details of Accounts Registered with Net Banking.
 3) user_count.txt : Has number of accounts registred with google pay in total.
